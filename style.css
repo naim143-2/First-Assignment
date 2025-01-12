@@ -602,7 +602,7 @@ display: block;
   /* gap: 12px; */
   width: 1400px;
   margin-top: 32px;
-  background-image: url('/assets/quote-bg.png');
+ background-image: url('assets/quote-bg.png');
   background-repeat: no-repeat;
   background-position: top left;
   border-radius: 16px;
