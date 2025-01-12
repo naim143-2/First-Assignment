@@ -448,6 +448,9 @@ opacity: 0px;
     /* text-align: center; */
     background-color: rgba(198, 228, 214, 1);
   }
+  .may{
+    text-align: center;
+  }
   .last-2{
     width: 1122px;
 height: 0px;
