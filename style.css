@@ -448,6 +448,17 @@ opacity: 0px;
     /* text-align: center; */
     background-color: rgba(198, 228, 214, 1);
   }
+  .last-2{
+    width: 1122px;
+height: 0px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid rgba(14, 14, 14, 0.1)
+  }
+  .center{
+    text-align: center;
+  }
   .mr{
     text-align: center;
   }
