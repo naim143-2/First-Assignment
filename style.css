@@ -45,6 +45,8 @@
   .fira-sans-bold {
     font-family: "Fira Sans", serif;
     font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
     font-style: normal;
   }
   
@@ -352,6 +354,138 @@ background-color: rgba(255, 194, 57, 1);
   .satelite{
     gap: 32px;
   }
+  /* .donation-btn-1{
+   width: 240px;
+   height: 128px; */
+
+
+  .donation-btn-1{
+ width:(240px);
+ height:(128px);
+ padding: 40px;
+ gap: 24px;
+ border-radius: 16px;
+ background: rgba(255, 255, 255, 1);
+border: 1px solid rgba(14, 14, 14, 0.15) ; 
+ opacity: 0px;
+
+
+
+  }
+  .donation-btn-2{
+  width:(252px);
+height: (128px);
+padding: 40px;
+gap: 24px;
+border-radius: 16px;
+border: 1px;
+opacity: 0px;
+background: rgba(198, 228, 214, 1);
+border: 1px solidborder: 1px solid rgba(14, 14, 14, 0.15)
+
+  }
+  .donation-btn-3{
+    width: Hug (243px)px;
+height: Hug (128px)px;
+padding: 40px;
+gap: 24px;
+border-radius: 16px;
+border: 1px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+border: 1px solid rgba(14, 14, 14, 0.15)
+
+  }
+  .donation-btn-4{
+    width: Hug (264px)px;
+height: Hug (128px)px;
+padding: 40px;
+border-radius: 16px;
+border: 1px;
+opacity: 0px;
+gap: 32px;
+background: rgba(255, 255, 255, 1);
+border: 1px solid rgba(14, 14, 14, 0.15)
+  }
+  .donation-options{
+    gap: 24px;
+  }
+  .custom-amount-2{
+   width: 1032px;
+    height: Hug (64px)px;
+    padding: 20px 40px 20px 40px;
+    gap: 24px;
+    border: 0px 0px 1px 0px;
+    opacity: 0px;
+    text-align: center;
+    margin: 32px 19.5px;
+    border: 1px solid rgba(14, 14, 14, 0.15)
+    
+  }
+  .done-btn{
+   
+    width: Hug (151px)px;
+height: Hug (56px)px;
+padding: 17px 34px 17px 34px;
+gap: 48px;
+border-radius: 8px;
+border: 1px;
+opacity: 0px;
+background: rgba(0, 106, 80, 1);
+border: 1px solid rgba(14, 14, 14, 0.1)
+  }
+  .yt{
+    margin: auto;
+  margin: 80px 265px;
+  gap: 24px;
+    width: Fixed (1,280px)px;
+height: Hug (395px)px;
+padding: 80px 100px 80px 100px;
+gap: 64px;
+border-radius: 24px;
+opacity: 0px;
+
+    /* text-align: center; */
+    background-color: rgba(198, 228, 214, 1);
+  }
+  .mr{
+    text-align: center;
+  }
+  .ban{
+    text-align: center;
+  }
+  .subs{
+    width: Hug (150px)px;
+height: Hug (56px)px;
+padding: 17px 34px 17px 34px;
+gap: 48px;
+border-radius: 0px 8px 8px 0px;
+opacity: 0px;
+background: rgba(0, 106, 80, 1);
+text-align: right;
+  }
+  .pro{
+    text-align: center;}
+  .ema{
+    width:600px;
+height: Hug (55px)px;
+padding: 18px 40px 18px 40px;
+gap: 24px;
+border-radius: 8px 0px 0px 8px;
+border: 0px 0px 1px 0px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+text-align: left;
+
+  }
+  .may{
+    display: flex;
+  }
+  .foot{
+    text-align: center;
+  }
+
+  
   .header{
     /* color: rgba(255, 255, 255, 1); */
     
@@ -367,6 +501,8 @@ background-color: rgba(255, 194, 57, 1);
     border-radius: 24px;
     gap: 32px;
     padding: 48px;
+    
+  
   }
   .al{
     display: flex;
@@ -389,6 +525,7 @@ background-color: rgba(255, 194, 57, 1);
     border-radius: 24px;
     gap: 32px;
     padding: 48px;
+    margin: ;
   
   }
   .hhh{
@@ -408,22 +545,7 @@ background-color: rgba(255, 194, 57, 1);
     margin-top: 80px;
     margin-bottom: 80px;
   }
-  .last{
-    display: flex;
-    width: 1071px;
-    height: 128px;
-    gap: 24px;
-    text-align: center;
-  }
-  .first-1{
-    width: 240px;
-    height: 128px;
-    /* color: rgba(255, 255, 255, 1); */
-    border-radius: 16px;
-    border: 1px solid rgba(14, 14, 14, 0.15);
-    padding: 40px;
-    gap: 24px;
-  }
+  
   .btn-4{
     width: 139px;
     height: 48px;
@@ -433,6 +555,8 @@ background-color: rgba(255, 194, 57, 1);
     background-color: rgba(0, 106, 80, 1);
     te
   }
+  
+  
   .header-2{
     display: flex;
     margin: auto;
@@ -482,6 +606,5 @@ background-color: rgba(255, 194, 57, 1);
   padding: 32px;
   gap: 24px;
   /* border: 1px solid ; */
-
-
+  
 
